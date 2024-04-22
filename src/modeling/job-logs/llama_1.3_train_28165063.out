@@ -1,78 +1,0 @@
-
-Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
-
-DEBUG:hydra.core.utils:Setting JobRuntime:name=UNKNOWN_NAME
-DEBUG:hydra.core.utils:Setting JobRuntime:name=train
-[2024-04-01 09:28:19,677][root][INFO] - project_dir: ${oc.env:WEBLINX_PROJECT_DIR}
-seed: 123
-project_name: llama_ft
-data:
-  num_proc: 8
-  split_path: ${project_dir}/wl_data/splits.json
-  base_dir: ${project_dir}/wl_data/demonstrations/
-train:
-  split: train
-  num_epochs: 3
-  learning_rate: 5.0e-05
-  batch_size_per_device: 4
-  gradient_accumulation_steps: 4
-  dataloader_num_workers: 8
-  gradient_checkpointing: true
-  use_accelerator_device_map: false
-  use_auto_device_map: true
-  warmup_ratio: 0
-  scheduler: linear
-  optim: adamw_torch
-eval:
-  split: valid
-  batch_size_per_device: 8
-  result_dir: ${project_dir}/results/${project_name}/${eval.split}/${model.name}
-  load_from_save_dir: true
-model:
-  name: princeton-nlp/Sheared-LLaMA-1.3B
-  tokenizer: ${model.name}
-  template_tokenizer: ${model.tokenizer}
-  max_inp_len: null
-  max_out_len: 256
-  use_rope: true
-  use_flash_attention_2: false
-  save_dir: ${project_dir}/checkpoints/${project_name}/${model.name}
-candidates:
-  k: 10
-  model: McGill-NLP/MiniLM-L6-dmr
-  project_name: dmr
-  split: ${eval.split}
-  train_path: ${project_dir}/wl_data/candidates/train.jsonl
-  path: ${project_dir}/wl_data/candidates/${candidates.split}.jsonl
-
-Loading candidates: 0it [00:00, ?it/s]Loading candidates: 3it [00:00, 51.99it/s]
-[2024-04-01 09:28:47,397][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
-Processing demos into input records:   0%|          | 0/1 [00:00<?, ?it/s]Processing demos into input records: 100%|██████████| 1/1 [00:00<00:00,  6.64it/s]Processing demos into input records: 100%|██████████| 1/1 [00:00<00:00,  6.63it/s]
-Building input records:   0%|          | 0/25 [00:00<?, ?it/s]Building input records:   4%|▍         | 1/25 [00:00<00:09,  2.51it/s]Building input records:   8%|▊         | 2/25 [00:00<00:06,  3.42it/s]Building input records:  12%|█▏        | 3/25 [00:00<00:05,  3.85it/s]Building input records:  16%|█▌        | 4/25 [00:01<00:08,  2.60it/s]Building input records:  20%|██        | 5/25 [00:01<00:06,  3.15it/s]Building input records:  28%|██▊       | 7/25 [00:01<00:03,  4.75it/s]Building input records:  32%|███▏      | 8/25 [00:02<00:03,  4.67it/s]Building input records:  36%|███▌      | 9/25 [00:02<00:03,  5.00it/s]Building input records:  40%|████      | 10/25 [00:02<00:02,  5.07it/s]Building input records:  44%|████▍     | 11/25 [00:02<00:02,  5.51it/s]Building input records:  48%|████▊     | 12/25 [00:02<00:02,  5.55it/s]Building input records:  52%|█████▏    | 13/25 [00:02<00:02,  5.03it/s]Building input records:  56%|█████▌    | 14/25 [00:03<00:02,  4.47it/s]Building input records:  60%|██████    | 15/25 [00:03<00:01,  5.20it/s]Building input records:  64%|██████▍   | 16/25 [00:03<00:01,  5.77it/s]Building input records:  68%|██████▊   | 17/25 [00:03<00:01,  5.69it/s]Building input records:  72%|███████▏  | 18/25 [00:03<00:01,  5.47it/s]Building input records:  80%|████████  | 20/25 [00:04<00:00,  6.55it/s]Building input records:  84%|████████▍ | 21/25 [00:04<00:00,  5.30it/s]Building input records:  92%|█████████▏| 23/25 [00:04<00:00,  6.87it/s]Building input records: 100%|██████████| 25/25 [00:04<00:00,  5.40it/s]
-
-No chat template is defined for this tokenizer - using the default template for the LlamaTokenizerFast class. If the default is not appropriate for your model, please set `tokenizer.chat_template` to an appropriate template. See https://huggingface.co/docs/transformers/main/chat_templating for more information.
-
-Map:   0%|          | 0/25 [00:00<?, ? examples/s]Map: 100%|██████████| 25/25 [00:00<00:00, 828.63 examples/s]
-/home/kapmcgil/.local/lib/python3.10/site-packages/accelerate/accelerator.py:432: FutureWarning: Passing the following arguments to `Accelerator` is deprecated and will be removed in version 1.0 of Accelerate: dict_keys(['dispatch_batches', 'split_batches']). Please pass an `accelerate.DataLoaderConfiguration` instead: 
-dataloader_config = DataLoaderConfiguration(dispatch_batches=None, split_batches=False)
-  warnings.warn(
-[2024-04-01 09:28:58,875][accelerate.utils.other][WARNING] - Detected kernel version 3.10.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
-  0%|          | 0/3 [00:00<?, ?it/s]You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
-`use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`...
- 33%|███▎      | 1/3 [00:27<00:55, 27.53s/it]                                              33%|███▎      | 1/3 [00:27<00:55, 27.53s/it]{'loss': 2.083, 'learning_rate': 3.3333333333333335e-05, 'epoch': 0.57}
-Error executing job with overrides: ['+variant=ft_1.3b']
-Traceback (most recent call last):
-  File "/scratch/kapmcgil/weblinx/modeling/llama/train.py", line 124, in main
-    trainer.train()
-  File "/home/kapmcgil/.local/lib/python3.10/site-packages/trl/trainer/sft_trainer.py", line 360, in train
-    output = super().train(*args, **kwargs)
-  File "/home/kapmcgil/.local/lib/python3.10/site-packages/transformers/trainer.py", line 1555, in train
-    return inner_training_loop(
-  File "/home/kapmcgil/.local/lib/python3.10/site-packages/transformers/trainer.py", line 1937, in _inner_training_loop
-    self._maybe_log_save_evaluate(tr_loss, model, trial, epoch, ignore_keys_for_eval)
-  File "/home/kapmcgil/.local/lib/python3.10/site-packages/transformers/trainer.py", line 2250, in _maybe_log_save_evaluate
-    logs["loss"] = round(tr_loss_scalar / (self.state.global_step - self._globalstep_last_logged), 4)
-ZeroDivisionError: float division by zero
-
-Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
- 33%|███▎      | 1/3 [00:43<01:26, 43.50s/it]
