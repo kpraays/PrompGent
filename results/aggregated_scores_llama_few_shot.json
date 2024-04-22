@@ -1,0 +1,1100 @@
+[
+  {
+    "split": "test_iid",
+    "intent": "click",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_iid",
+    "intent": "click",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.10580204778156997,
+    "unconditional_score": 0.10580204778156997
+  },
+  {
+    "split": "test_iid",
+    "intent": "click",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.008924731182795699,
+    "unconditional_score": 0.000944254835039818
+  },
+  {
+    "split": "test_iid",
+    "intent": "say",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.1044776119402985,
+    "unconditional_score": 0.1044776119402985
+  },
+  {
+    "split": "test_iid",
+    "intent": "say",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.7197346600331676,
+    "unconditional_score": 0.7197346600331676
+  },
+  {
+    "split": "test_iid",
+    "intent": "say",
+    "metric": "chrf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.3017741935483871,
+    "unconditional_score": 0.2171973466003317
+  },
+  {
+    "split": "test_iid",
+    "intent": "textinput",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_iid",
+    "intent": "textinput",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_iid",
+    "intent": "textinput",
+    "metric": "chrf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": null,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_iid",
+    "intent": "textinput",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": null,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_iid",
+    "intent": "scroll",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_iid",
+    "intent": "scroll",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.07258064516129033,
+    "unconditional_score": 0.07258064516129033
+  },
+  {
+    "split": "test_iid",
+    "intent": "submit",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_iid",
+    "intent": "submit",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_iid",
+    "intent": "submit",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": null,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_iid",
+    "intent": "load",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.16666666666666666,
+    "unconditional_score": 0.16666666666666666
+  },
+  {
+    "split": "test_iid",
+    "intent": "load",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.7,
+    "unconditional_score": 0.7
+  },
+  {
+    "split": "test_iid",
+    "intent": "load",
+    "metric": "urlf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.3414285714285714,
+    "unconditional_score": 0.239
+  },
+  {
+    "split": "test_iid",
+    "intent": "overall",
+    "metric": "overall",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.24949730700179534,
+    "unconditional_score": 0.07528169014084507
+  },
+  {
+    "split": "test_iid",
+    "intent": "overall",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.3147334777898158,
+    "unconditional_score": 0.3017334777898158
+  },
+  {
+    "split": "test_iid",
+    "intent": "element-group",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.008137254901960784,
+    "unconditional_score": 0.0005966930265995686
+  },
+  {
+    "split": "test_iid",
+    "intent": "text-group",
+    "metric": "chrf-urlf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.2921098901098901,
+    "unconditional_score": 0.08142775229357797
+  },
+  {
+    "split": "test_vis",
+    "intent": "click",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0016129032258064516,
+    "unconditional_score": 0.0016129032258064516
+  },
+  {
+    "split": "test_vis",
+    "intent": "click",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0978494623655914,
+    "unconditional_score": 0.0978494623655914
+  },
+  {
+    "split": "test_vis",
+    "intent": "click",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.01802197802197802,
+    "unconditional_score": 0.0017634408602150537
+  },
+  {
+    "split": "test_vis",
+    "intent": "say",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.04451926674148896,
+    "unconditional_score": 0.04451926674148896
+  },
+  {
+    "split": "test_vis",
+    "intent": "say",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.7598204264870931,
+    "unconditional_score": 0.7598204264870931
+  },
+  {
+    "split": "test_vis",
+    "intent": "say",
+    "metric": "chrf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.20334318069916296,
+    "unconditional_score": 0.15450430228208004
+  },
+  {
+    "split": "test_vis",
+    "intent": "textinput",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_vis",
+    "intent": "textinput",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_vis",
+    "intent": "textinput",
+    "metric": "chrf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": null,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_vis",
+    "intent": "textinput",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": null,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_vis",
+    "intent": "scroll",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_vis",
+    "intent": "scroll",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.02981029810298103,
+    "unconditional_score": 0.02981029810298103
+  },
+  {
+    "split": "test_vis",
+    "intent": "load",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.014285714285714285,
+    "unconditional_score": 0.014285714285714285
+  },
+  {
+    "split": "test_vis",
+    "intent": "load",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.5142857142857142,
+    "unconditional_score": 0.5142857142857142
+  },
+  {
+    "split": "test_vis",
+    "intent": "load",
+    "metric": "urlf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.12833333333333333,
+    "unconditional_score": 0.066
+  },
+  {
+    "split": "test_vis",
+    "intent": "change",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_vis",
+    "intent": "change",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.34782608695652173,
+    "unconditional_score": 0.34782608695652173
+  },
+  {
+    "split": "test_vis",
+    "intent": "change",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_vis",
+    "intent": "submit",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_vis",
+    "intent": "submit",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_vis",
+    "intent": "submit",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": null,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_vis",
+    "intent": "overall",
+    "metric": "overall",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.17137889688249403,
+    "unconditional_score": 0.05550679611650486
+  },
+  {
+    "split": "test_vis",
+    "intent": "overall",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.3238834951456311,
+    "unconditional_score": 0.3238834951456311
+  },
+  {
+    "split": "test_vis",
+    "intent": "element-group",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.016441102756892232,
+    "unconditional_score": 0.0011668445393098542
+  },
+  {
+    "split": "test_vis",
+    "intent": "text-group",
+    "metric": "chrf-urlf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.2052421250587682,
+    "unconditional_score": 0.05939455782312925
+  },
+  {
+    "split": "test_geo",
+    "intent": "click",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.00034211426616489907,
+    "unconditional_score": 0.00034211426616489907
+  },
+  {
+    "split": "test_geo",
+    "intent": "click",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.11973999315771468,
+    "unconditional_score": 0.11973999315771468
+  },
+  {
+    "split": "test_geo",
+    "intent": "click",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0031142857142857144,
+    "unconditional_score": 0.00037290455011974004
+  },
+  {
+    "split": "test_geo",
+    "intent": "textinput",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_geo",
+    "intent": "textinput",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_geo",
+    "intent": "textinput",
+    "metric": "chrf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": null,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_geo",
+    "intent": "textinput",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": null,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_geo",
+    "intent": "say",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.09009513150531617,
+    "unconditional_score": 0.09009513150531617
+  },
+  {
+    "split": "test_geo",
+    "intent": "say",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.6536094012311136,
+    "unconditional_score": 0.6536094012311136
+  },
+  {
+    "split": "test_geo",
+    "intent": "say",
+    "metric": "chrf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.2839126712328767,
+    "unconditional_score": 0.18556799104644656
+  },
+  {
+    "split": "test_geo",
+    "intent": "scroll",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_geo",
+    "intent": "scroll",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.060556464811783964,
+    "unconditional_score": 0.060556464811783964
+  },
+  {
+    "split": "test_geo",
+    "intent": "submit",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_geo",
+    "intent": "submit",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_geo",
+    "intent": "submit",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": null,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_geo",
+    "intent": "change",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_geo",
+    "intent": "change",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.3333333333333333,
+    "unconditional_score": 0.3333333333333333
+  },
+  {
+    "split": "test_geo",
+    "intent": "change",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.00035714285714285714,
+    "unconditional_score": 0.00011904761904761905
+  },
+  {
+    "split": "test_geo",
+    "intent": "load",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.013157894736842105,
+    "unconditional_score": 0.013157894736842105
+  },
+  {
+    "split": "test_geo",
+    "intent": "load",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.4473684210526316,
+    "unconditional_score": 0.4473684210526316
+  },
+  {
+    "split": "test_geo",
+    "intent": "load",
+    "metric": "urlf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.08823529411764706,
+    "unconditional_score": 0.039473684210526314
+  },
+  {
+    "split": "test_geo",
+    "intent": "overall",
+    "metric": "overall",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.20760667903525049,
+    "unconditional_score": 0.05466536394723987
+  },
+  {
+    "split": "test_geo",
+    "intent": "overall",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.2633121641426478,
+    "unconditional_score": 0.2633121641426478
+  },
+  {
+    "split": "test_geo",
+    "intent": "element-group",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0026506024096385546,
+    "unconditional_score": 0.00022271714922048998
+  },
+  {
+    "split": "test_geo",
+    "intent": "text-group",
+    "metric": "chrf-urlf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.27834146341463417,
+    "unconditional_score": 0.059499478623566214
+  },
+  {
+    "split": "test_web",
+    "intent": "click",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0019464720194647203,
+    "unconditional_score": 0.0019464720194647203
+  },
+  {
+    "split": "test_web",
+    "intent": "click",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.14452554744525548,
+    "unconditional_score": 0.14452554744525548
+  },
+  {
+    "split": "test_web",
+    "intent": "click",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.013468013468013467,
+    "unconditional_score": 0.0019464720194647203
+  },
+  {
+    "split": "test_web",
+    "intent": "textinput",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_web",
+    "intent": "textinput",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_web",
+    "intent": "textinput",
+    "metric": "chrf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": null,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_web",
+    "intent": "textinput",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": null,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_web",
+    "intent": "say",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.09539473684210527,
+    "unconditional_score": 0.09539473684210527
+  },
+  {
+    "split": "test_web",
+    "intent": "say",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.7360197368421053,
+    "unconditional_score": 0.7360197368421053
+  },
+  {
+    "split": "test_web",
+    "intent": "say",
+    "metric": "chrf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.2697094972067039,
+    "unconditional_score": 0.19851151315789473
+  },
+  {
+    "split": "test_web",
+    "intent": "change",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_web",
+    "intent": "change",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.5909090909090909,
+    "unconditional_score": 0.5909090909090909
+  },
+  {
+    "split": "test_web",
+    "intent": "change",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_web",
+    "intent": "submit",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_web",
+    "intent": "submit",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_web",
+    "intent": "submit",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": null,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_web",
+    "intent": "load",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.11392405063291139,
+    "unconditional_score": 0.11392405063291139
+  },
+  {
+    "split": "test_web",
+    "intent": "load",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.5316455696202531,
+    "unconditional_score": 0.5316455696202531
+  },
+  {
+    "split": "test_web",
+    "intent": "load",
+    "metric": "urlf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.2619047619047619,
+    "unconditional_score": 0.13924050632911392
+  },
+  {
+    "split": "test_web",
+    "intent": "scroll",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_web",
+    "intent": "scroll",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.09523809523809523,
+    "unconditional_score": 0.09523809523809523
+  },
+  {
+    "split": "test_web",
+    "intent": "overall",
+    "metric": "overall",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.19983632112236943,
+    "unconditional_score": 0.061278680688336515
+  },
+  {
+    "split": "test_web",
+    "intent": "overall",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.30664435946462715,
+    "unconditional_score": 0.30664435946462715
+  },
+  {
+    "split": "test_web",
+    "intent": "element-group",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.011560693641618497,
+    "unconditional_score": 0.0012319063751154912
+  },
+  {
+    "split": "test_web",
+    "intent": "text-group",
+    "metric": "chrf-urlf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.27351578947368416,
+    "unconditional_score": 0.0674733835367437
+  },
+  {
+    "split": "test_cat",
+    "intent": "click",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0011411182959300114,
+    "unconditional_score": 0.0011411182959300114
+  },
+  {
+    "split": "test_cat",
+    "intent": "click",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.10650437428680107,
+    "unconditional_score": 0.10650437428680107
+  },
+  {
+    "split": "test_cat",
+    "intent": "click",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.012428571428571428,
+    "unconditional_score": 0.0013236972232788132
+  },
+  {
+    "split": "test_cat",
+    "intent": "textinput",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_cat",
+    "intent": "textinput",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_cat",
+    "intent": "textinput",
+    "metric": "chrf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": null,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_cat",
+    "intent": "textinput",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": null,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_cat",
+    "intent": "say",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.106993006993007,
+    "unconditional_score": 0.106993006993007
+  },
+  {
+    "split": "test_cat",
+    "intent": "say",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.7727272727272727,
+    "unconditional_score": 0.7727272727272727
+  },
+  {
+    "split": "test_cat",
+    "intent": "say",
+    "metric": "chrf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.268552036199095,
+    "unconditional_score": 0.2075174825174825
+  },
+  {
+    "split": "test_cat",
+    "intent": "scroll",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_cat",
+    "intent": "scroll",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.11174785100286533,
+    "unconditional_score": 0.11174785100286533
+  },
+  {
+    "split": "test_cat",
+    "intent": "load",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.03669724770642202,
+    "unconditional_score": 0.03669724770642202
+  },
+  {
+    "split": "test_cat",
+    "intent": "load",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.5779816513761468,
+    "unconditional_score": 0.5779816513761468
+  },
+  {
+    "split": "test_cat",
+    "intent": "load",
+    "metric": "urlf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.09,
+    "unconditional_score": 0.05201834862385321
+  },
+  {
+    "split": "test_cat",
+    "intent": "submit",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_cat",
+    "intent": "submit",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_cat",
+    "intent": "submit",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": null,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_cat",
+    "intent": "change",
+    "metric": "exact-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_cat",
+    "intent": "change",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.2,
+    "unconditional_score": 0.2
+  },
+  {
+    "split": "test_cat",
+    "intent": "change",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.0,
+    "unconditional_score": 0.0
+  },
+  {
+    "split": "test_cat",
+    "intent": "overall",
+    "metric": "overall",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.20447860962566844,
+    "unconditional_score": 0.06143803976702149
+  },
+  {
+    "split": "test_cat",
+    "intent": "overall",
+    "metric": "intent-match",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.3004619401486242,
+    "unconditional_score": 0.3004619401486242
+  },
+  {
+    "split": "test_cat",
+    "intent": "element-group",
+    "metric": "iou",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.010609756097560976,
+    "unconditional_score": 0.0009131461558646026
+  },
+  {
+    "split": "test_cat",
+    "intent": "text-group",
+    "metric": "chrf-urlf",
+    "model_name": "princeton-nlp/Sheared-LLaMA-1.3B",
+    "project_name": "llama_ft",
+    "score": 0.2682073067119796,
+    "unconditional_score": 0.06774248927038627
+  },
+]
