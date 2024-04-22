@@ -1,0 +1,1182 @@
+"ouuikrj"
+
+
+User question: "open the trd one and send me a short summary of the trd article"
+
+
+Here is an example: The user wanted to know what issue the films showcased at the Cannes Film Festival highlight, despite the #metoo movement? The agent searched on the current page and found the text depicting that the films highlight the ongoing issue of sexual assault and predatory behavior.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"wfenvck"
+
+
+User question:"locate the ‘add to story’ button and add the following text, \"feeling great and ready to take on the day! 🌞✨ what's everyone up to today?\"",
+
+
+"Here is an example: The user wanted to know how to add a text to their Facebook story. The agent searched on the current page and found the text depicting the steps to locate the 'add to story' button, choose the text story option, and enter the desired text."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"gmhajlo"
+
+
+User question: "what is air pollution?"
+
+
+"Here is an example: The user wanted to know what air pollution is. The agent searched on the current page and found the text describing air pollution as the contamination of the environment by agents that modify the atmosphere's natural characteristics."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"gudlwyv"
+
+
+User question: "do you have any specific rugs category in mind?"
+
+
+"Here is an example: The user wanted to know the specific categories of rugs available at Target. The agent searched on the current page and found the text listing 'area rugs' as a specific category under home decor."
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"nqriyhc"
+User question: "how many fights did khabib nurmagomedov have in his professional career?",
+
+
+"Here is an example: The user wanted to know how many fights Khabib Nurmagomedov had in his professional career. The agent searched on the current page and found the text depicting that he had 29 professional fights."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"krunuah"
+
+
+User question: "please show me the amenities."
+
+
+"Here is an example: The user wanted to know what amenities are available at the selected hotel in Bali. The agent searched on the current page and found the text depicting various amenities such as free parking, swimming pool, restaurant, bar, and fitness room among others."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"vchfjig"
+
+
+User question: "open asos website and show me something in accessories.",  "are you looking for any specific category?", "sunglasses for women",
+
+
+"Here is an example: The user wanted to know the prices for the wayfarers & square sunglasses available on the ASOS website. The agent searched on the current page and found options including ASOS Design Mid Square Sunglasses in black, tort, and crystal brown, with prices ranging from £9.50 to £10.00."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"yvncuvj"
+
+
+User question: "what's the average price for the dishes?"
+
+
+"Here is an example: The user wanted to know the average price for dishes at restaurants in Surry Hills found on the Quandoo website. The agent searched on the current page and found that dishes are priced around $20."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"fzcutlb"
+
+
+User question: “who is the author of the article?"
+
+
+"Here is an example: The user wanted to know who the author of the article titled 'I couldn’t outrun my trauma': nobody talks about parenting with complex PTSD' was. The agent searched on the current page and found that the article was authored by Nikkya Hargrove."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"hdbpxqn"
+
+
+User question: “search “old 1950s computer on a pink background, retro futurism.\""
+
+
+"Here is an example: The user wanted to download an image of an old 1950s computer on a pink background from Bing Image Creator. The agent guided the user through the process and provided the direct link to download the image."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ "nzieebh"
+
+
+User question: "what does the term precast refer to?"
+
+
+"Here is an example: The user wanted to know what the term 'precast' refers to in the context of concrete blocks. The agent searched on the current page and found the explanation that precast refers to blocks being formed and hardened before being brought to the job site."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+ 
+"erjwhjk"
+
+
+User question: "can you help me compose an email invitation for a product launch party?"
+
+
+"Here is an example: The user wanted to compose an email invitation for a product launch party. The agent assisted by drafting an email, which was then refined and sent, detailing the event's purpose, date, location, and contact information, tailored specifically to invite Hriskesh to the Techmaster product launch."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"pkeloan"
+
+
+User question: "compose an \" urgent meeting request\""
+
+
+"Here is an example: The user wanted to compose an urgent meeting request via email. The agent helped to draft an email that outlines the meeting's purpose, provides detailed scheduling options, and sends the invitation to the specified recipient."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"xrfcbfd"
+
+
+User question: “let me know if the cheese pizza is available."
+
+
+"Here is an example: The user wanted to know if cheese pizza was available at the restaurant 'Halal & Love.' The agent searched on the current page and confirmed that cheese pizza is indeed available and shared the ongoing deal of $5 off on orders over $20."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"fgauuld"
+
+
+User question: "search on google “bright-gradient-lettering-rainbow image” and download any photo to your computer and upload it as a cover photo on facebook."
+
+
+"Here is an example: The user wanted to update their cover photo on Facebook. The agent guided the user through the process, from clicking on the 'add cover photo' button to resolving an error message by choosing a larger photo, which was then successfully added."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ "zojfjna"
+
+
+User question: "do they have smoothies?"
+
+
+"Here is an example: The user wanted to know about the smoothie options available at Wholesome Organic Gourmet Market on Postmates. The agent searched the current page and provided a list of available smoothies including Peanut Butter Blast and Berry Time Blast."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"xmdekwj"
+
+
+User question: "open google calendar and create a task for a networking event."
+
+
+"Here is an example: The user wanted to create a task in Google Calendar for a networking event. The agent assisted by scheduling the event for June 15th at 7:00 PM and added a description to connect with professionals from various industries."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"jxlnhgo"
+
+
+User question: "would you be able to compose an email for me?", "compose as \"invitation to collaboration\" email."
+
+
+"Here is an example: The user wanted to compose and send an email inviting Fusion Ventures to collaborate on a project. The agent assisted in drafting the email and sent it after confirmation from the user, effectively extending the invitation."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"eiblold"
+
+
+User question: "are there options to download or share the image below it?"
+
+
+"Here is an example: The user wanted to know how to download an image of a cute puppy from Imgur. The agent guided the user through the process of enlarging the image and then clicking on the download icon to save it to their computer."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"iwjtiqn"
+
+
+User question: "what are the facilities included in the 3rd option?"
+
+
+"Here is an example: The user wanted to know the facilities included at The Summit Hotel Seoul Dongdaemun, a stay option found on the CheapTickets website. The agent provided details such as free WiFi, gym, restaurant, and air conditioning among other amenities."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"trcpsdd"
+
+
+User question: "ask bard to generate some rules and regulations that a private limited company should follow."
+
+
+"Here is an example: The user wanted to know the rules and regulations a private limited company should follow. After logging into Google Bard using provided credentials, the agent found a detailed list including corporate governance, financial reporting, and compliance among others, highlighting the importance of consulting with a professional for specific legal requirements."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"orlmkas"
+
+
+User question: "open the first one and send me the available color options."
+
+
+"Here is an example: The user wanted to find out the available color options for the Women's Short Sleeve Linen Mini Shift Dress from Target. After navigating to the dress details, the agent provided the colors available: black, orange, pink, and white."
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"kaxzpgm"
+
+
+User question: " could you please share the image prompt?"
+
+
+"Here is an example: The user wanted to know how to share an image generated from the prompt 'a 3D render of a city with a realistic look' on the Stable Diffusion website. The agent assisted by navigating the website to generate the image, create a community discussion, and provided the link to the discussion."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"zhtyqxk"
+
+
+User question: "please compose an email to invite people to a job fair."
+
+
+"Here is an example: The user needed to compose an email to invite recent graduates and professionals to a job fair. The agent helped draft an email detailing the event's date, time, and location, and provided instructions on how to prepare for the job fair. The email was then sent successfully."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"emwxcyh"
+
+
+User question: " what are the pros and cons of protective?", " what is the am best rating for protective?"
+
+
+"Here is an example: The user wanted to know the pros and cons of Protective Life Insurance and its AM Best rating. The agent provided detailed information from the Investopedia website, listing the advantages such as affordable term policies and no-medical-exam coverage, along with the con of lower customer satisfaction, and confirmed that the AM Best rating is A+."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"jkkxytb"
+
+
+User question: "please generate an image using the following prompt: \"create a photorealistic painting of a cat in the style of vincent van gogh.\""
+
+
+"Here is an example: The user wanted to create and share a photorealistic painting of a cat in the style of Vincent van Gogh using Stable Diffusion. The agent assisted by generating the image, sharing it with the community, and creating a discussion forum, providing the link for access."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"pwmfnzz"
+
+
+User question: "open asos website and show me something in \"trousers\""
+
+
+"Here is an example: The user wanted to know the available colors and specific details for men's trousers on the ASOS website. The agent provided the color options, helped the user select a black Calvin Klein Golf trouser, and detailed its features such as belt loops, functional pockets, and slim fit design."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"dpftfrs"
+
+
+User question: "i'm looking for restaurants in london, united kingdom.", "yes, i'm interested in italian cuisine."
+
+
+"Here is an example: The user wanted to book an Italian restaurant in London for three people on the 1st of June at 7:00 PM. The agent assisted by listing available options on the Quandoo website, including Italian Cotto and Il Cucciolo Restaurant, and facilitated the online booking process."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"sekzawr"
+
+
+User question: "share the first two paragraphs of \"antenna basics.\""
+
+"Here is an example: The user wanted to know the contents and specific details from the "Antenna Basics" section of the "How Radio Works" article on HowStuffWorks. The agent provided an overview of the article's sections and shared detailed information on how antennas function in different radio devices, including their shapes and purposes."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ "bdfglfk"
+
+
+User question: "show me the recently published articles."
+
+
+"Here is an example: The user wanted to know the recently published articles on the PLOS One website in the 'PLOS Digital Health' section. The agent provided a list of articles, including one on blood pressure classification during sleep, and detailed its study design, publication date, and copyright information."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ "wlglvuu"
+
+
+User question: "open the \"business\" section and find the latest market news."
+
+
+"Here is an example: The user wanted to access the latest market news on the CNN News website, particularly about Nvidia joining the $1 trillion club. The agent provided a detailed summary of the article, highlighting Nvidia's achievements and the significant impact of its AI technologies on its market value."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"aoxxcdg"
+
+
+User question: "set up a google calendar event for our team brainstorming session."
+
+
+"Here is an example: The user needed to schedule a team brainstorming session via Google Calendar for July 21st from 2:00 PM to 4:00 PM. The agent assisted by setting the date and time, sending invitations to specified team members, choosing a location, and setting a reminder for the event."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"iizwcsj"
+
+
+User question: "compose as \"invitation to collaboration\" email."
+
+
+"Here is an example: The user wanted to send an email invitation for collaboration. The agent assisted by drafting an email addressed to Fusion Ventures, inviting them to collaborate on a project aligned with their expertise. After approval from the user, Leon Tales, the email was successfully sent."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"oxkhiig"
+
+
+User question: "now, share ts link on twitter."
+
+
+"Here is an example: The user wanted to share a Flickr image link on Twitter. The agent guided the user through the process of finding and selecting the image, obtaining its link, and then successfully tweeting it after logging in and confirming the action on Twitter."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"wpnexuj" 
+
+
+User question: "please create an image of \"a forest at night, with trees illuminated by the moon and stars.\""
+
+
+"Here is an example: The user wanted to generate an image of a forest at night illuminated by moonlight and stars using the Hugging Face Stable Diffusion website. The agent facilitated the process without adding a negative prompt, generated four images, and displayed the first one as requested by the user."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"ijznayd" 
+
+
+User question: "write the following content:\"elysian ventures is a leading venture capital firm dedicated to nurturing early-stage startups. they provide funding, strategic guidance, and industry expertise to help entrepreneurs transform their ideas into thriving businesses. with a focus on technology-driven ventures, elysian ventures fosters innovation and accelerates growth. through mentorsp programs, tailored strategies, and community-building initiatives, they unlock the path to entrepreneurial success.\""
+
+
+"Here is an example: The user wanted to create and export a writing project about a venture capital firm using QuillBot. The agent assisted by setting up the project, writing detailed content about the firm, summarizing the main points, and exporting the final document as a Word file, ready for sharing and further editing."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"Bexvmyx"
+
+
+User question: "can you compose an email to request additional staffing?"
+
+
+"Here is an example: The user needed to send an email requesting additional staffing due to increased workload. The agent helped draft a comprehensive email detailing the situation, the need for 20 additional staff members, and the expected impact on the organization. The email was addressed to the HR team and sent after confirmation from Lily, the resource manager."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"saabwsg"
+
+
+User question: "please open plos biology and show me some of the recently published articles in plos one."
+
+
+"Here is an example: The user wanted to view recently published articles in PLOS One and get a detailed summary of an article about the sensory modulation of aging in Drosophila by ring neurons. The agent provided the article titles and a comprehensive summary of the chosen article, detailing the impact of death perception on the flies' physiology and lifespan."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"swfuumj"
+
+
+User question: "report spam now for the three selected emails."
+
+
+"Here is an example: The user wanted to manage their Gmail inbox by reporting the first three emails as spam. The agent assisted by selecting the emails as requested and successfully marking them as spam, streamlining the user's email management process."
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"kjcptgq"
+
+
+User question: "send me cruise options from canada new england for 1st july to 8th july."
+
+
+"Here is an example: The user wanted to find cruise options from Canada to New England from 1st July to 8th July on the CheapTickets website. The agent provided details of a 7-night cruise available, including cabin pricing and additional costs such as gratuities, WiFi, and specialty dining."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"alxehej"
+
+
+User question: "can you show me the specials on the menu?"
+
+
+"Here is an example: The user wanted to find special menu items for a restaurant in Milan booked through the Quandoo website. The agent assisted by listing the specials available, including Shawarma Lahmi, Tawouk, and Kibbi Naii, along with their prices."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"ikgrxmb" 
+
+
+User question: "fantastic! now, look for the option to download the image and share its link."
+
+
+"Here is an example: The user wanted to download and share a link to an image of a '90s computer in the style of vaporwave from the Bing Image Creator website. The agent guided the user to find and download the image, and then successfully shared the direct link to the downloaded image."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"cxtzcfw"
+
+
+User question: "i am looking for zephyrfusion.com, please check if it is available."
+
+
+"Here is an example: The user wanted to check the availability of the domain 'zephyrfusion.com' on Squarespace and explore other similar domain options. The agent confirmed the availability of 'zephyrfusion.com' for $20 per year and provided additional similar domain names, including 'zephyrfusion.in', 'zephyrfusion.net', and 'zephyrfusion.org', each priced at $20 per year."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"vstsutl"
+
+
+User question: "what is conditional formatting in excel?"
+
+
+"Here is an example: The user wanted to understand what conditional formatting is in Excel. The agent explained that conditional formatting is a feature allowing users to apply specific formatting to cells based on certain conditions or rules, such as highlighting cells above a certain threshold or applying colors based on cell values. This explanation helped the user grasp how to visually enhance data interpretation and analysis in Excel."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"uoprmwb"
+
+
+User question: "tell me the names of the 9 spiders mentioned in the article."
+
+
+"Here is an example: The user wanted to know the names of the 9 spiders mentioned in the Britannica article titled '9 of the World's Deadliest Spiders.' The agent provided a list that included the brown recluse spider, Brazilian wandering spiders, yellow sac spider, wolf spider, black widow spider, brown widow spider, red widow spider, redback spider, and funnel-web spiders."
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"sfkjodl"
+
+
+User question: "actually, i want trending in culture"
+
+
+"Here is an example: The user requested to see trending topics in the 'culture' category on the HowStuffWorks website. The agent provided a list of trending cultural articles, including topics such as the most and least popular birthdays in the U.S., the steps to reach China's Fanjingshan Temple, the first person to speak English, and the meaning behind West Point's 'goat' term."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"imvcfan"
+
+
+User question: "compose an \"urgent request on sales report.\""
+
+
+"Here is an example: The user needed to send an urgent email request for an updated sales report to Mark Thompson via Fastmail. The agent helped draft the email, ensuring it conveyed the urgency of the request and the need for a prompt response by the end of the day. The email was successfully sent after confirmation from the user, Sarah Johnson."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"pwxzusu"
+
+
+User question: "please provide a summary of ts article"
+
+
+"Here is an example: The user requested to access the latest news on the coronavirus from the BBC News website. The agent helped navigate to the appropriate section and provided a summary of the first article, which discusses the FBI Director Christopher Wray's statement regarding the origins of COVID-19, highlighting a discrepancy with previous findings from a China-WHO investigation."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"pwmhuww"
+
+
+User question: "would you please create a website for me?"
+
+
+"Here is an example: The user requested to create a website named 'SimplyCool' on Squarespace, focusing on a basic layout with the brand as the focus. The agent assisted by setting up the 'Intro' section, selecting a monochromatic color palette with red, and choosing 'Dapifer' from the serif font options to match the site’s aesthetic. The website was successfully created with the specified preferences."
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"zclcedx" 
+
+
+User question: "post the below quiz
+
+
+"Here is an example: The user wanted to post a neighborhood-themed quiz on the Nextdoor website and specify who could see the post. The agent assisted by formatting and posting the quiz, then setting the visibility to 'your neighborhood' only, ensuring that only local residents could participate and engage with the content."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"kdwvicy" 
+
+
+User question: "can you please show me jewelry for women?"
+
+
+"Here is an example: The user requested to view necklaces for women on the ASOS website. The agent assisted by displaying options, including the Ted Baker Braddie Blossom Pendant in silver, and provided the price of £32.00 when asked, facilitating a smooth shopping experience."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"polclhz"
+
+
+User question: "is it available on friday, june 2nd, 2023?"
+
+
+"Here is an example: The user wanted to book a table at 'The Tent' restaurant in Bangkok via the TableAgent website. The agent assisted by confirming the cuisine type, last order time, and availability for the requested date and time, and successfully completed the booking for four people after obtaining the necessary details."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"feupcgi"
+
+
+User question: "search for \" a brown rat terrier dressed as a jungle explorer, digital art \" images."
+
+
+"Here is an example: The user wanted to find and share an image of a brown rat terrier dressed as a jungle explorer from the Bing Image Creator website. The agent guided the user through the search and successfully provided the link to the specific digital art image."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"yluipwa" 
+
+
+User question: "get me the list of the most viewed articles in the opinion section.
+
+
+"Here is an example: The user requested to view the most viewed articles in the opinion section of The Guardian website. After accessing the list, the agent opened the first article about unusual nutritional advice, providing the author's name, Zoe Williams, and a summary of the article's content, which involved a mix-up with a pet nutritionist."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"wbsesgi" 
+
+
+User question: "find some information about veganism on wikipedia."
+
+
+"Here is an example: The user requested information about veganism from Wikipedia, specifically the definition and the rights of vegans. The agent provided a comprehensive definition of veganism as a philosophy and lifestyle aimed at excluding animal exploitation, and detailed the legal rights and protections vegans have in various countries, such as legal protections in Germany, Portugal, Ontario, and the UK."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+"ygiqsqg"
+
+
+User question: "share me a short summary of the first 6 paragraphs."
+
+
+"Here is an example: The user requested a summary of an article from CNN about Scottie Pippen's comments on Michael Jordan. The agent provided a concise summary, by going through the article and finding key information."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"fquqaqa" 
+
+
+User question: " i want to make a reservation for 3rd june at 2:00 p.m"
+
+
+"Here is an example: The user wanted to book a reservation for Saturday brunch with indoor seating at Amelia Wynn Winery Bistro in Seattle via the TableAgent website. The agent assisted by confirming the availability of the service for the specified date and time for four people."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"xmqpqbt"
+
+
+User question: "click on \"citation generator\"."
+
+
+"Here is an example: The user wanted to generate a citation for a book using Quillbot's citation generator. The agent guided the user through the process, resulting in a full citation for Gwendolyn Hooks' book titled 'The Garden,' published in 2018, along with the corresponding in-text citation."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"ausjykw"
+
+
+User question: "do you have women's 'coats & jackets'?"
+
+
+"Here is an example: The user wanted to explore women's 'coats & jackets' in brown on the ASOS website. The agent displayed options and guided the user to select a specific product, the Pull&Bear exclusive oversized tailored coat in brown, providing the price of £25.00."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"snviznd"
+
+
+User question: “search for \"urban street photography.\""
+
+
+"Here is an example: The user wanted to find and view an impressive image of urban street life on Flickr. The agent assisted by searching for 'urban street photography,' selecting a photo that captured the hustle of a city street, and attempting to download it, only to discover the owner had disabled downloading."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"aopjpga"
+
+
+User question: "please provide a summary of the first three paragraphs of the article."
+
+
+"Here is an example: The user requested a summary of an article about a Titanic plan used in the 1912 inquiry, from the 'luxury' section on the CNN news website. The agent provided a detailed summary."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"qjmnlfs"
+
+
+User question: "please provide me with the summary of the conclusion."
+
+
+"Here is an example: The user requested details about recent journals from the bioacoustics field published on PLOS ONE. The agent provided information about a specific journal focused on an intelligent auxiliary system for music performance under edge computing, including the author's name, publication date, and a comprehensive summary of the study's conclusions and technical approaches."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"ijeqdyc" 
+User question: "can you assist me in creating a poll?"
+
+
+"Here is an example: The user wanted to create a community poll on the Nextdoor website to determine the preferred type of community event. The agent assisted by setting up the poll with multiple event options, adding a detailed description to encourage participation, and successfully posting the poll for community feedback."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"apfyesq"
+
+
+User question: "give me some related topics about biotechnology."
+
+
+"Here is an example: The user requested to explore topics related to biotechnology on an encyclopedia website. The agent facilitated by providing a list of related topics such as genetically engineered foods, ergonomics, cloning, genetic engineering, and interferon, and further assisted with inquiries about modern biotechnology techniques and the concept of clone libraries."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"rkocbdj" 
+
+
+User question: summarize the first 5 paragraphs of the article."
+
+
+"Here is an example: The user requested to view a summary of the article titled 'Stop the Spadework! How No-Dig Gardening Helps the Planet – and Your Back' on The Guardian website. The agent provided the photo credits and summarized the first five paragraphs."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"bapevgx"
+
+
+User question: "is reservation recommended?"
+
+
+"Here is an example: The user was searching for Spanish restaurants on the TableAgent website and inquired about specific details for 'Tabooshh!' located in Willemstad. The agent confirmed that reservations are recommended, outdoor seating is available, and there are currently no special deals or offers available."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"phxrovm"
+
+
+User question: "who was nicolaus copernicus?"
+
+
+"Here is an example: The user wanted to learn about Nicolaus Copernicus, so they asked about his identity, notable achievements, birth and death dates, and early education on Wikipedia. The agent provided detailed answers to each question by searching the wikipedia article."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"eaozdtr"
+
+
+User question: "i want the crypto news."
+
+
+"Here is an example: The user requested the latest cryptocurrency news from Investopedia. The agent provided updates on key cryptocurrencies to watch for the week of May 30.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"fxhsqxo"
+
+
+User question:  "create an event on \"community clean-up day\"."
+
+
+"Here is an example: The user requested to create an event titled 'Community Clean-Up Day' on the Nextdoor website. The agent assisted by setting the event for September 4th from 9:00 AM to 12:00 PM at Shore Dr, Manning, SC, and included a detailed description to encourage neighborhood participation. The event was successfully posted without a cover photo or video call link."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"bonfxww"
+User question: "what is the price?"
+
+
+"Here is an example: The user wanted to book the 'Ghosts of Orlando: Haunted City Exploration Game' through the Trip website. The agent assisted by providing details like the duration of 45-75 minutes, the price of US$8.84 per adult, and setting the booking for two adults on July 27th, totaling US$17.68.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"hczoeyj"
+
+
+User question: "search “blouse designs latest for marriage”."
+
+
+"Here is an example: The user wanted to download an image of the latest blouse designs for marriage from Pinterest. The agent assisted by navigating to the specific image, initiating the download, and successfully saving the image as requested."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"lldtscr"
+
+
+User question: "please open s profile and show me s newest post."
+
+
+"Here is an example: The user wanted to view and save a post related to Uber's availability in Germany from a user named 'triceratops' on StackExchange. The agent assisted by navigating to the user's profile, selecting their newest post about Uber, displaying an informative answer, and saving the detailed response as requested."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"iqaazif"
+
+
+User question: "send me the top 8 questions from stack exchange."
+
+
+"Here is an example: The user requested to view the top questions on Stack Exchange and then selected the question regarding whether punishments can be weakened if evidence was collected illegally. The agent found and provided the top 8 questions by searching the website. 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ "iziouhr"
+
+
+User question: "i need to make an announcement on the nextdoor website. can you assist me?"
+
+
+"Here is an example: The user needed to make a community event announcement on the Nextdoor website. The agent assisted by crafting a detailed post about the event, setting the privacy to reach nearby neighborhoods, and successfully publishing the announcement."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"bessdxh"
+
+
+User question: "select \"explore ideas\" and look for \" an intricate sandcastle on a tropical beach, photorealistic.\""
+
+
+"Here is an example: The user requested to find a photorealistic image of an intricate sandcastle on a tropical beach on Bing. The agent provided the image's size (1024 × 1024 jpg) and shared a link to the image, successfully fulfilling the user's request."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"bdhiwrz"
+
+
+User question: "please open the 3rd article and provide me with a summary of conclusion."
+
+
+"Here is an example: The user requested the latest journals on algebraic structures from PLOS ONE and specifically asked for a summary of the conclusion for an article about controller performance comparison for a 4-DOF robotic manipulator. The agent provided a detailed conclusion from the study from the text."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"Vyetbcl"
+
+
+User question: "could you compose an email for me?",
+
+
+"Here is an example: The user needed assistance to compose and send a thank-you email for Christmas gifts received. The agent facilitated the process, crafting a heartfelt message expressing gratitude towards the sender, Rose, and successfully sent the email after confirming that no further changes were needed."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"dvjohpf" 
+
+
+User question: "please search for \"vicks nyquil cold & flu cherry nighttime relief\" medicine."
+
+
+"Here is an example: The user accessed the Uber Eats website to find Vicks NyQuil Cold & Flu Cherry Nighttime Relief medicine in Las Vegas, NV. The agent assisted by locating the product, providing details about the net quantity (8 fl oz), and sharing the directions for use, ensuring the user had all necessary information for safe consumption."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+“udjldbi"
+
+
+User question: "please send me the top questions of the week."
+
+
+"Here is an example: The user requested to view the top questions of the week on StackExchange. The agent opened the top question.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"gwttfmm"
+
+
+User question: "open the first one and share a summary of it."
+
+
+"Here is an example: The user requested to access articles from the 'Olympics' category in the sports section on CNN's website. The agent provided a list of articles and then opened and summarized the first article regarding Zane Robertson, a New Zealand Olympic distance runner who received an eight-year ban for doping violations, at the users request."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"Cdfkxtv"
+
+
+User question: "open \"covid-19 situation in the who south-east asia region.\""
+
+
+"Here is an example: The user requested information about the global and regional COVID-19 situation from the WHO website. The agent provided the global total case count, global death count, and the total cases and deaths specifically for India, ensuring the user had accurate and up-to-date statistics regarding the pandemic."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"vdkltrr" 
+
+
+User question: "schedule a departmental review meeting."
+
+
+"Here is an example: The user needed to schedule a departmental review meeting using Google Calendar. The agent assisted by setting the meeting for, inviting all department heads and managers with specified email addresses.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"lxqfsxo"
+
+
+User question: "add upcoming tasks for 4th & 5th july."
+
+
+"Here is an example: The user wanted to add tasks for July 4th and 5th in Todoist. The agent assisted by adding detailed tasks for both days: an Independence Day celebration on the 4th and researching an upcoming conference on the 5th, with the latter marked as the highest priority."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"wzqkdds"
+
+
+User question: "please show me vacuum cleaners on macy's."
+
+
+"Here is an example: The user requested to view vacuum cleaners on Macy's website. The agent assisted by showcasing options and then detailed the features of the Ionvac Zipvac, a 3-in-1 vacuum cleaner, including its capabilities, design, and included accessories, providing comprehensive product information."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"gtpjzzv"
+
+
+User question: "search for an image of a beautiful sunset over the ocean on google search"
+
+
+"Here is an example: The user wanted to find, download, and share an image of a beautiful sunset over the ocean on Imgur. The agent guided the user through the process of downloading the image with vibrant colors and a serene atmosphere from Google, uploading it to Imgur, adding a descriptive title and tags, writing a captivating description, and finally posting it publicly. The agent then provided the link to the Imgur post."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"ydmcvnf"
+
+
+User question: "provide a summary of the first seven paragraphs of the article."
+
+
+"Here is an example: The user requested to access cricket-related news from the BBC News website. The agent navigated to the cricket section under sports and provided articles, one of which was about MS Dhoni's delayed retirement after an IPL victory. The user then asked for a summary of the first seven paragraphs of that article, which the agent provided from the text"
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"ytzwgym"
+
+
+User question: open the biography on \"camilla, queen of the united kingdom.\"",
+
+
+"Here is an example: The user requested information about Camilla, Queen of the United Kingdom, from the Britannica website. The agent helped open her biography, provided her original name, Camilla Rosemary Shand, and detailed her early life and education. 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"qmivsau" 
+
+
+User question: "please show me the car rental details in opa locka (opf)."
+
+
+"Here is an example: The user wanted to rent a car in Opa Locka through the Trip website. The agent helped by displaying options for the user's specified dates, with specific requirements as prompted by the user.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"pjzqiar"
+
+
+User question: "please click on summarizer."
+
+
+"Here is an example: The user requested a summary of a paragraph on the benefits of regular exercise using Quillbot's summarizer. The agent efficiently summarized the paragraph from looking through the text. 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"hvdwmnq" 
+
+
+User question: open britannica and navigate to entertainment & pop culture."
+
+
+"Here is an example: The user sought information about the origins of agriculture from the Britannica website. The agent navigated to the appropriate section under "Entertainment & Pop Culture," then accessed an article titled "Origins of Agriculture." 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"aqahzgs"
+
+
+User question: "go to unanswered, click on score and send me some questions."
+
+
+"Here is an example: The user sought clarification on the application of EC261 articles 8 and 9 in the event of a flight cancellation announced more than two weeks in advance. The agent accessed the Stack Exchange website as per the users request, navigated to the unanswered questions, and opened a relevant question. 
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"dvzglkv"
+
+
+User question:  "please help me with the task name & description."
+
+
+"Here is an example: The user wanted to add a task named "social media content creation" in Todoist. The agent assisted in logging into the Todoist website, navigating to the task addition section, and inputting the task details including a comprehensive description of creating engaging content for social media. 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"friuisw"
+
+
+User question: "i am looking for baby cribs."
+
+
+"Here is an example: The user wanted to purchase a white mini crib from Target. The agent guided the user through the Target website, helping to navigate the various crib categories before settling on mini cribs. 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"ejryoez"
+
+
+User question: "share with me any five trending coupon deals."
+
+
+"Here is an example: The user requested to view trending coupon deals on the 'HowStuffWorks' website. The agent facilitated navigation to the coupons section and presented a list of five trending deals. 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"iwlxwud"
+
+
+User question: "on her profile, you should see a button that says \"add friend.\" click on that button to send her a friend request."
+
+
+"Here is an example: The user wanted to add Suzan George Carr from Colquitt, Georgia as a friend on Facebook. The agent navigated to the Facebook website, located the search bar, and inputted the name as requested. 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"hkqclvm" 
+
+
+User question: "find me signature select spread hazelnut"
+
+
+"Here is an example: The user wanted to find the price and net weight of Signature Select Hazelnut Spread in Austin on the Uber Eats website. The agent navigated to the website, located the product by searching, and efficiently provided the required information, including the net weight of 13 oz and the price of $3.61."
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"ygprzve"
+
+
+User question: "add a task with the title \"interview.\""
+
+
+"Here is an example: The user requested to add and schedule a task titled "Interview" with the details "Personal Interview Work" on Gmail, set for May 30th at 9:00 AM. The agent set up the task.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"sbvtquk"
+
+
+User question:  "wonderful! now, let's share ts photo via email. do you see an option to share or send the image via email?"
+
+
+"Here is an example: The user requested to find and share a captivating image of a serene mountain landscape from Flickr. The agent successfully searched for "nature photography," selected a beautiful image, and prepared it for sharing via email. 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"eivbwev" 
+
+
+User question: click on \"more\" and go to \"lifestyle” click on “fason“ and show me articles from “sustainable fason”"
+
+
+"Here is an example: The user wanted to access and summarize an article about sustainable fashion from The Guardian website. The agent navigated to the lifestyle section, specifically the sustainable fashion category, and selected an article about Zandra Rhodes' timeless fashion piece. 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+"Iftpibh"
+
+
+User question: "can you find me men’s summer shoes on macy's?"
+
+
+"Here is an example: The user was looking for men's summer shoes on Macy's website, specifically in black. The agent assisted by presenting options like Alfani sandals, Cole Haan loafers, and Michael Kors sneakers. When the user inquired about the Cole Haan loafers, the agent provided the price, helping the user to make an informed decision regarding their purchase. 
+---------------------------------------------------------------------------------------------------------------------------------------------

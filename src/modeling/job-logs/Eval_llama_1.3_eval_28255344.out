@@ -1,0 +1,17 @@
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) openmpi/4.0.3     2) ucx/1.8.0
+
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/scratch/kapmcgil/weblinx/modeling/llama/eval.py", line 24, in <module>
+    from .processing import (
+  File "/scratch/kapmcgil/weblinx/modeling/llama/processing.py", line 23, in <module>
+    from dialogues_process import user_theme
+ModuleNotFoundError: No module named 'dialogues_process'

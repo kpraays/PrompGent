@@ -1,0 +1,1 @@
+<class 'str'>[-00:14] Hi [00:35] Can you please find me a room in Boston through Airbnb.com? [02:30] 13th June to 15th June for 2 People. [04:54] Is "Modern Suite, Jacuzzi, Yoga Loft near Boston" available for the above-mentioned date? [05:28] What is the cost for 2-night stay? [06:24] Ok. Thanks for the information.<class 'str'>main_theme_history

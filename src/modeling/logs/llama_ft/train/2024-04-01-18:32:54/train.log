@@ -1,0 +1,43 @@
+[2024-04-01 18:32:54,488][root][INFO] - project_dir: ${oc.env:WEBLINX_PROJECT_DIR}
+seed: 123
+project_name: llama_ft
+data:
+  num_proc: 8
+  split_path: ${project_dir}/wl_data/splits.json
+  base_dir: ${project_dir}/wl_data/demonstrations/
+train:
+  split: train
+  num_epochs: 3
+  learning_rate: 5.0e-05
+  batch_size_per_device: 4
+  gradient_accumulation_steps: 4
+  dataloader_num_workers: 8
+  gradient_checkpointing: true
+  use_accelerator_device_map: false
+  use_auto_device_map: true
+  warmup_ratio: 0
+  scheduler: linear
+  optim: adamw_torch
+eval:
+  split: valid
+  batch_size_per_device: 8
+  result_dir: ${project_dir}/results/${project_name}/${eval.split}/${model.name}
+  load_from_save_dir: true
+model:
+  name: princeton-nlp/Sheared-LLaMA-1.3B
+  tokenizer: ${model.name}
+  template_tokenizer: ${model.tokenizer}
+  max_inp_len: null
+  max_out_len: 256
+  use_rope: true
+  use_flash_attention_2: false
+  save_dir: ${project_dir}/checkpoints/${project_name}/${model.name}
+candidates:
+  k: 10
+  model: McGill-NLP/MiniLM-L6-dmr
+  project_name: dmr
+  split: ${eval.split}
+  train_path: ${project_dir}/wl_data/candidates/train.jsonl
+  path: ${project_dir}/wl_data/candidates/${candidates.split}.jsonl
+
+[2024-04-01 18:35:37,972][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
