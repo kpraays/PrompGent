@@ -1,7 +1,5 @@
 from huggingface_hub import snapshot_download
 
-
-
 # candidates files
 snapshot_download(
     repo_id="McGill-NLP/WebLINX-full", 
