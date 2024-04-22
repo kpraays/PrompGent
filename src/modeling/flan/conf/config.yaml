@@ -1,40 +1,37 @@
 project_dir: ${oc.env:WEBLINX_PROJECT_DIR}
 seed: 123
-project_name: llama
+project_name: flan
 
 data:
   num_proc: 8
   split_path: ${project_dir}/wl_data/splits.json
   base_dir: ${project_dir}/wl_data/demonstrations/
+  use_m2w: False
 
 train:
+  # default for flan-t5-base and flan-t5-large
   split: train
-  num_epochs: 3
-  learning_rate: 5e-5
-  batch_size_per_device: 4
-  gradient_accumulation_steps: 4
+  num_epochs: 5
+  learning_rate: 0.00005
+  batch_size_per_device: 8
+  gradient_accumulation_steps: 2
   dataloader_num_workers: 8
   gradient_checkpointing: True
-  use_accelerator_device_map: False
-  use_auto_device_map: True
-  warmup_ratio: 0
+  warmup_steps: 0
   scheduler: linear
   optim: adamw_torch
 
 eval:
   split: valid
-  batch_size_per_device: 2
+  batch_size_per_device: 16
   result_dir: ${project_dir}/results/${project_name}/${eval.split}/${model.name}
-  load_from_save_dir: False  # If True, load from model.save_dir instead of model.name
+  load_from_save_dir: True  # If True, load from model.save_dir instead of model.name
 
 model:
-  name: meta-llama/Llama-2-7b-chat-hf
+  name: McGill-NLP/flan-t5-large-weblinx
   tokenizer: ${model.name}
-  template_tokenizer: ${model.tokenizer}
-  max_inp_len: null
+  max_inp_len: 2048
   max_out_len: 256
-  use_rope: True
-  use_flash_attention_2: False
   save_dir: ${project_dir}/checkpoints/${project_name}/${model.name}
 
 candidates:
