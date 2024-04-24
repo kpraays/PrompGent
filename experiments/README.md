@@ -1,0 +1,7 @@
+### Experiments
+
+1. We introduced a technique designed to encapsulate the main topic of the conversation within the prompt. This method aims to give the action model a semblance of “long-term memory”, allowing it to better grasp the broader context and flow of the conversation. We identified the main topic by extracting key phrases and keywords from the entire conversation history.
+
+2. To refine our model’s capability for reasoned decision-making, we integrated a zero-shot CoT prompting strategy (Kojima et al., 2022). This method involves enhancing the prompt with the phrase “Let’s think step by step”, aimed at fostering a logical, step-by-step approach to problem-solving before the model attempts to answer a query (Kojima et al., 2022).
+
+3. To enhance the effectiveness of our prompts, we aimed to implement few-shot CoT by incorporating an example of a successfully executed demonstration, complete with a detailed explanation, directly into the prompt. We hypothesized that by observing a successful example, the agent would be better equipped to generalize to new, unseen situations. Specifically, if the example was framed clearly enough to capture the essential details of another demonstration, it could aid the agent in making decisions for the current utterance it is processing. 
