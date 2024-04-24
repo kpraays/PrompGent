@@ -91,7 +91,7 @@ python -m llama.eval +variant="ft_1.3b" eval.split=valid
 It was a collaboration between the following group members:
 - Aayush Kapur: @[kpraays](https://github.com/kpraays)
 - Vishvak Raghavan: @[vishvak11](https://github.com/vishvak11)
-- More details under contribution section: [contribution](./docs/contribution.md)
+- More details under section: [contribution](./docs/contribution.md)
 
 
 
