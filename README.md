@@ -86,6 +86,8 @@ python -m llama.eval +variant="ft_1.3b" eval.split=valid
   - Few-shot CoT
 - We aggregate the results for the two models, Sheared-LlaMa-1.3B and Flan-T5-780M here: [results](./results/tables.md)
 
+### Explanation
+[![cover_image](docs/cover_image.PNG)](https://youtu.be/ccdDbl0sQjY)
 
 ### Contribution
 It was a collaboration between the following group members:
