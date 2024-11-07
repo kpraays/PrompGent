@@ -1,5 +1,5 @@
 # PrompGent
-This repository is the implementation for the project submitted as part of course COMP545 at McGill University, Winter 2024. Built on top of [Weblinx](https://mcgill-nlp.github.io/weblinx/). Enhanced prompting for the agent to navigate web tasks.
+Built on top of [Weblinx](https://mcgill-nlp.github.io/weblinx/). Enhanced prompting for the agent to navigate web tasks. This was a collaboration between @kpraays (Aayush Kapur) and @vishvak11 (Vishvak Raghavan).
 
 
 ### Description
